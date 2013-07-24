@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-release version</actionName>
+            <displayName>release version</displayName>
+            <goals>
+                <goal>-B</goal>
+                <goal>release:clean</goal>
+                <goal>release:prepare-with-pom</goal>
+                <goal>release:perform</goal>
+            </goals>
+        </action>
+    </actions>
