@@ -10,7 +10,7 @@
     
     <groupId>org.modelinglab.utils</groupId>
     <artifactId>filesystem</artifactId>
-    <version>1.0.4</version>
+    <version>1.0.5-SNAPSHOT</version>
     <name>ML Filesystem Utils</name>
     
     <scm>
