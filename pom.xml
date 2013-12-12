@@ -10,11 +10,12 @@
     
     <groupId>org.modelinglab.utils</groupId>
     <artifactId>filesystem</artifactId>
-    <version>1.0.4-SNAPSHOT</version>
+    <version>1.0.4</version>
     <name>ML Filesystem Utils</name>
     
     <scm>
-        <developerConnection>scm:svn:svn+ssh://software.imdea.org/srv/svn/mda/code/maven/main-tools/utils/filesystem/trunk</developerConnection>
+        <developerConnection>scm:git:ssh://github.com/modelinglab/filesystem-utils.git</developerConnection>
+        <connection>scm:git:https://github.com/modelinglab/filesystem-utils.git</connection>
     </scm>
   
     <dependencies>
